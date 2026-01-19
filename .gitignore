@@ -1,0 +1,53 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Stan cache
+*.rds
+
+# Results (keep only final/published)
+results/preliminary/*.csv
+results/preliminary/*.rds
+!results/preliminary/summary_stats.csv
+
+# Large data files (>100MB)
+data/simulated/full_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled output
+*.o
+*.so
+*.dll
+
+# Logs
+logs/
+*.log
+
+# Backup files
+*_backup.*
+*.bak
