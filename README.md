@@ -1,6 +1,6 @@
 # Uncertainty Calibration in Bayesian Hierarchical Models: A Simulation Study
 
-> **⚠️ WORK IN PROGRESS** – This is an ongoing research project. Current simulation progress: 40% complete. Results are preliminary and subject to change. Expected completion: May 2026.
+> ** WORK IN PROGRESS** – This is an ongoing research project. Current simulation progress: 40% complete. Results are preliminary and subject to change. Expected completion: May 2026.
 
 ## Overview
 
@@ -18,10 +18,10 @@ A Monte Carlo simulation study investigating the finite-sample performance of Ba
 
 ## Current Status
 
-- ✅ Simulation infrastructure: Complete
-- 🔄 Core simulations: 40% complete
-- ⏳ Manuscript: In draft
-- 📅 Target completion: May 2026
+-  Simulation infrastructure: Complete
+-  Core simulations: 40% complete
+-  Manuscript: In draft
+-  Target completion: May 2026
 
 ## Methodology
 
@@ -90,4 +90,5 @@ Copyright (c) 2026 Welson Bentum, Agnes Akosua Asante, Esther Boateng
 
 **Last updated:** January 2026  
 **Status:** Active research project
+
 
