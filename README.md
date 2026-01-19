@@ -76,9 +76,18 @@ A Monte Carlo simulation study investigating the finite-sample performance of Ba
 
 ## License
 
-All rights reserved. This is unpublished research. Please contact authors before using or citing.
+Copyright (c) 2026 Welson Bentum, Agnes Akosua Asante, Esther Boateng
+
+   All rights reserved.
+
+   This work is provided for reference purposes only. No part of this 
+   work may be reproduced, distributed, or transmitted in any form or 
+   by any means without the prior written permission of the authors.
+
+   For permissions, contact: bwelson523@gmail.com
 
 ---
 
 **Last updated:** January 2026  
 **Status:** Active research project
+
