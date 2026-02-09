@@ -55,7 +55,7 @@ A Monte Carlo simulation study investigating the finite-sample performance of Ba
 ## Repository Structure
 
 ```
-├── paper/          # LaTeX manuscript and PDF
+├── paper/          # LaTeX manuscript and PDF (coming soon!!!)
 ├── code/           # Simulation and analysis scripts (coming soon)
 ├── results/        # Preliminary results
 └── README.md
@@ -90,6 +90,7 @@ Copyright (c) 2026 Welson Bentum, Agnes Akosua Asante, Esther Boateng
 
 **Last updated:** January 2026  
 **Status:** Active research project
+
 
 
 
