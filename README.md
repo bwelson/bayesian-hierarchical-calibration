@@ -18,7 +18,7 @@ A Monte Carlo simulation study investigating the finite-sample performance of Ba
 
 ## Current Status
 
--  Simulation infrastructure: Complete
+-  Simulation infrastructure: Incomplete
 -  Core simulations: 40% complete
 -  Manuscript: In draft
 -  Target completion: May 2026
@@ -90,5 +90,6 @@ Copyright (c) 2026 Welson Bentum, Agnes Akosua Asante, Esther Boateng
 
 **Last updated:** January 2026  
 **Status:** Active research project
+
 
 
